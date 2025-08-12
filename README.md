@@ -125,7 +125,12 @@ Example entry:
 
 ## 📁 Large assets & distribution
 
-Large binary assets (HDRI `.exr`, large `.fbx`, etc.) are intentionally **not** included in this repository. They are tracked separately to keep the repo lean.
+Large binary assets (HDRI `.exr`, large `.fbx`, etc.) are intentionally **not** included in this repository.  
+They are tracked separately to keep the repo lean.
+
+🔗 **Download large assets here:**  
+[Google Drive Folder](https://drive.google.com/drive/folders/13LYy_GsfUvvhqOO5RsRfmaZX8dFb_t0x?usp=sharing)
+
 
 * A file `LargeAssetsList.txt` (committed) contains file paths of ignored large files (if present).
 * To upload large files, consider a shared cloud (Drive/Dropbox) and add download links to the README or `LargeAssetsList.txt`.
