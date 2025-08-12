@@ -38,6 +38,8 @@
 
 <img src="Screenshots\Screenshot 2025-08-12 232715.png" />
 
+<img src="Screenshots\UI document.png" />
+
 ---
 
 <details>
