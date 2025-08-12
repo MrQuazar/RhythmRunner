@@ -164,6 +164,8 @@ This project is made for learning purposes. The assets are thanks to mixamo.org 
 
 **Developer:** Aartem Singh
 **Email:** \[[aartemsingh.uk@gmail.com](mailto:aartemsingh.uk@gmail.com)]
+**UI/UX Designer:** Mawrah Khan
+**Email:** \[[mawrahk@gmail.com](mailto:mawrahk@gmail.com)]
 
 <p align="center">
   <i>Created in 2 weeks — focused on creativity, scalability, and player experience.</i>
