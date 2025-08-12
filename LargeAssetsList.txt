@@ -1,0 +1,16 @@
+D:\Unity\Games\RainWalker\Assets\Animations\Falling.fbx
+D:\Unity\Games\RainWalker\Assets\Animations\Walking (1).fbx
+D:\Unity\Games\RainWalker\Assets\Resources\docklands_02_4k.exr
+D:\Unity\Games\RainWalker\Assets\Resources\just skies.exr
+D:\Unity\Games\RainWalker\Assets\Resources\KirbyCoveWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\Resources\rogland_clear_night_4k.exr
+D:\Unity\Games\RainWalker\Assets\Resources\TreasureIslandWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\Gareoult\GareoultWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\Gareoult\GareoultWhiteBalancedNoSun.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\KirbyCove\KirbyCoveWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\KirbyCove\KirbyCoveWhiteBalancedNoSun.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\MuirWood\MuirWoodWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\Seaside\SeasideWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\TreasureIsland\TreasureIslandWhiteBalanced.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\TreasureIsland\TreasureIslandWhiteBalancedNoSun.exr
+D:\Unity\Games\RainWalker\Assets\UnityTechnologies\UnityHDRI\Trinitatis Church\TrinitatisChurchWhiteBalanced.exr
