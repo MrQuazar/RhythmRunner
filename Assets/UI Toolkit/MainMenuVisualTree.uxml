@@ -1,0 +1,43 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=4968f42e283bf8c4bb1ccf1b5523647f&amp;type=3#MainMenuStyle" />
+    <engine:VisualElement name="Container" class="container" style="opacity: 1; display: flex;">
+        <engine:Label text="&lt;u&gt;Rhythm Walker&lt;/u&gt;" name="Rain_Walker" class="header" style="-unity-text-align: upper-center;" />
+        <engine:VisualElement name="ActionContainer" class="action-container">
+            <engine:GroupBox name="DropdownGrpBox" class="song-selector">
+                <engine:Label text="Song:" />
+                <engine:DropdownField name="SongSelector" class="song-selector-dropdown" style="background-image: url(&quot;project://database/Assets/Sprites/Button%20Bg.png?fileID=2800000&amp;guid=c22ac8a4ab422dc47bf57413eba23ef8&amp;type=3#Button Bg&quot;);" />
+            </engine:GroupBox>
+            <engine:GroupBox name="SliderGrpBox" class="song-selector">
+                <engine:Label text="Volume:" />
+                <engine:VisualElement class="slider-wrapper">
+                    <engine:VisualElement name="Fill" class="slider-fill" />
+                    <engine:Slider name="VolumeSlider" />
+                </engine:VisualElement>
+            </engine:GroupBox>
+            <engine:Button text="Play" name="PlayButton" class="button2 button play-button" />
+        </engine:VisualElement>
+        <engine:Button text="How to Play?" name="HowToButton" class="button how-to-play-button" />
+        <engine:Button text="Quit" name="QuitButton" class="button" />
+    </engine:VisualElement>
+    <engine:VisualElement name="HowToContainer" class="container" style="opacity: 1; display: none;">
+        <engine:VisualElement name="HowToPanel" class="how-to-panel">
+            <engine:Label text="&lt;u&gt;How To Play?&lt;/u&gt;" name="Title" class="title" style="-unity-text-align: upper-center;" />
+            <engine:Button name="CloseButton" class="close-button" />
+            <engine:Label text="Experience karaoke like never before! Trace lyrics in sync with the song, score points and immerse yourself in stunning abstract visuals." name="MainInfoText" class="main-info-text" style="-unity-text-align: upper-left;" />
+            <engine:VisualElement name="HowToCarousel" class="how-to-carousel" style="flex-grow: 1;">
+                <engine:Button name="PreviousButton" class="previous-button" />
+                <engine:VisualElement name="HowToVideos" class="how-to-videos" style="flex-grow: 1;">
+                    <engine:VisualElement name="VideoSegment" class="how-to-video-segnment" style="flex-grow: 1;">
+                        <engine:VisualElement name="Video1Container" class="video-container" style="display: flex;" />
+                        <engine:Label text="Trace the lyrics in the correct order to make them green and earn points." name="InfoText1" class="video-info-text" style="-unity-text-align: upper-left;" />
+                    </engine:VisualElement>
+                    <engine:VisualElement name="VideoSegment2" class="how-to-video-segnment" style="flex-grow: 1;">
+                        <engine:Label text="An incorrect trace makes the lyrics red, reduces points and breaks your streak!" name="InfoText2" enable-rich-text="true" class="video-info-text" style="-unity-text-align: upper-left;" />
+                        <engine:VisualElement name="Video1Container2" class="video-container2" style="display: flex;" />
+                    </engine:VisualElement>
+                </engine:VisualElement>
+                <engine:Button name="NextButton" class="next-button" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>

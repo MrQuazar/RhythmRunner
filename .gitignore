@@ -1,0 +1,35 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Uu]IElementsSchema/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.tmp
+*.pidb
+*.booproj
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Ignore large asset formats
+*.exr
+*.hdr
+*.tga
+*.tif
+*.tiff
+*.psd
+*.fbx

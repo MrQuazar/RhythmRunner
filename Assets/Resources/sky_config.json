@@ -1,0 +1,125 @@
+{
+  "sequences": [
+    {
+      "title": "bbno$, y2k - lalala",
+      "skyCubemapNames": [
+        "AmbienceExposure4k",
+        "UnearthlyRed4k",
+        "PlanetaryEarth4k",
+        "sandsloot_4k"
+      ],
+      "cameraPositions": [
+        { "x": 0, "y": 0, "z": -2 },
+        { "x": 0, "y": 0, "z": -4 },
+        { "x": 100, "y": 0, "z": 0 },
+        { "x": 0, "y": 0, "z": -4 }
+      ],
+      "rotateSpeed": [0, 0, 0, 0],
+      "followDistances": [1.5, 1.5, 3.0, 1.5],
+      "followHeights": [-1, -1, 1, -1],
+      "transitionDurations": [7, 26, 71, 0],
+      "animationClipNames": ["idle", "walk", "fall", "run"],
+      "sunWorldPositions": [
+        { "x": 0, "y": 1, "z": -9 },
+        { "x": 0, "y": 1, "z": -9 },
+        { "x": 0, "y": 1, "z": -9 },
+        { "x": 0, "y": 1, "z": -9 }
+      ],
+      "attachSunToCamera": [false, false, false, false]
+    },
+    {
+      "title": "Labon Ko - Bhool Bhulaiyaa",
+      "skyCubemapNames": [
+        "HighFantasy4k",
+        "TreasureIslandWhiteBalanced",
+        "CloudedSunGlow4k",
+        "rogland_clear_night_4k",
+        "AmbienceExposure4k",
+        "CosmicCoolCloudEQ_hdr",
+        "HighFantasy4k",
+        "TreasureIslandWhiteBalanced",
+        "PlanetaryEarth4k",
+        "HighFantasy4k"
+      ],
+      "cameraPositions": [
+        { "x": 0, "y": 20, "z": 1 },
+        { "x": 2, "y": 1, "z": 3 },
+        { "x": 2, "y": 1, "z": -4 },
+        { "x": -1, "y": 1, "z": -2 },
+        { "x": 3, "y": 2, "z": -5 },
+        { "x": 100, "y": 1, "z": -1 },
+        { "x": 0, "y": 1, "z": 1 },
+        { "x": 2, "y": 1, "z": 3 },
+        { "x": 0, "y": 1, "z": -3 },
+        { "x": 0, "y": 20, "z": 1 }
+      ],
+      "rotateSpeed": [8, 0, 0, 8, -0.5, 0.5, 0, 0, 0, 8],
+      "followDistances": [4, 2, 2, 1, 2.2, 2.0, 2.5, 2, 1.9, 4],
+      "followHeights": [4, -1, -1, 0, -0.5, 0.5, -1, -1, 1, 4],
+      "transitionDurations": [23, 55, 30, 38, 15, 58, 25, 15, 30, 0],
+      "animationClipNames": [
+        "sit idle",
+        "listen music",
+        "walk",
+        "sad sit",
+        "sad walk",
+        "fall",
+        "run",
+        "listen music",
+        "fall",
+        "sad sit"
+      ],
+      "sunWorldPositions": [
+        { "x": -3, "y": 2.5, "z": 7 },
+        { "x": 5.2, "y": 2.5, "z": 7 },
+        { "x": -4.7, "y": 4, "z": 8.5 },
+        { "x": -3, "y": 2.5, "z": 7 },
+        { "x": 25, "y": 2.5, "z": 7 },
+        { "x": -3, "y": 2.5, "z": -5.3 },
+        { "x": -3, "y": 2.5, "z": 7 },
+        { "x": 5.2, "y": 2.5, "z": 7 },
+        { "x": -3, "y": 2.5, "z": 7 },
+        { "x": -3, "y": 2.5, "z": 7 }
+      ],
+      "attachSunToCamera": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "title": "Somebody That I Used To Know",
+      "skyCubemapNames": [
+        "docklands_02_4k",
+        "TreasureIslandWhiteBalanced",
+        "PlanetaryEarth4k",
+        "sandsloot_4k"
+      ],
+      "cameraPositions": [
+        { "x": 0, "y": 0, "z": -2 },
+        { "x": 0, "y": 0, "z": -4 },
+        { "x": 100, "y": 0, "z": 0 },
+        { "x": 0, "y": 0, "z": -4 }
+      ],
+      "rotateSpeed": [0, 0, 0, 0],
+      "followDistances": [1.5, 1.5, 3.0, 1.5],
+      "followHeights": [-1, -1, -2, -1],
+      "transitionDurations": [30, 26, 71, 0],
+      "animationClipNames": ["dance1", "walk", "fall", "run"],
+      "sunWorldPositions": [
+        { "x": 0, "y": 10, "z": 0 },
+        { "x": 0, "y": 10, "z": 0 },
+        { "x": 0, "y": 10, "z": 0 },
+        { "x": 0, "y": 10, "z": 0 }
+      ],
+      "attachSunToCamera": [false, false, false, false]
+    }
+  ]
+}

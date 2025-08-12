@@ -1,0 +1,23 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenuStyle.uss?fileID=7433441132597879392&amp;guid=4968f42e283bf8c4bb1ccf1b5523647f&amp;type=3#MainMenuStyle" />
+    <engine:VisualElement name="Container" class="container" style="flex-grow: 1;">
+        <engine:Label text="&lt;u&gt;Paused&lt;/u&gt;" name="Paused" class="header" style="-unity-text-align: upper-center;" />
+        <engine:VisualElement name="ActionContainer" class="single-action-container">
+            <engine:GroupBox name="SliderGrpBox" class="song-selector">
+                <engine:Label text="Volume:" />
+                <engine:VisualElement class="slider-wrapper">
+                    <engine:VisualElement name="Fill" class="slider-fill" />
+                    <engine:Slider name="VolumeSlider" />
+                </engine:VisualElement>
+            </engine:GroupBox>
+            <engine:Button text="Resume" name="ResumeButton" class="button2 button play-button" />
+        </engine:VisualElement>
+        <engine:Button text="Retry" name="RetryButton" class="button how-to-play-button" />
+        <engine:Button text="Next Song" name="NextSongButton" enable-rich-text="true" class="button" />
+        <engine:Button text="Main Menu" name="MainMenuButton" class="button" />
+    </engine:VisualElement>
+    <engine:Button name="PauseButton" class="button pause-button" />
+    <engine:VisualElement name="ScoreBg" class="main-score-bg" style="flex-grow: 1;">
+        <engine:Label text="Score:0" name="ScoreText" class="main-score-text" />
+    </engine:VisualElement>
+</engine:UXML>
