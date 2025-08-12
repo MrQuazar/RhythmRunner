@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots\Rhythm Walker.png" alt="Rhythm Runner Banner" width="40%"/>
+  <img src="Screenshots\Rhythm Walker.png" alt="Rhythm Walker Banner" width="40%"/>
 </p>
 
 # 🎵 Rhythm Walker
@@ -18,7 +18,7 @@
 
 ## 🌟 Overview
 
-**Rhythm Runner** is a precision-based rhythm game where players use the mouse cursor to trace lyric words as they appear on screen (maximum 4 words visible at once). Correct and timely traces build streaks and multipliers; missed or out-of-order words reduce score. The game pairs tight gameplay with cinematic visuals — HDR lighting, dynamic cameras, and polished animations — to deliver an immersive, music-first experience.
+**Rhythm Walker** is a precision-based rhythm game where players use the mouse cursor to trace lyric words as they appear on screen (maximum 4 words visible at once). Correct and timely traces build streaks and multipliers; missed or out-of-order words reduce score. The game pairs tight gameplay with cinematic visuals — HDR lighting, dynamic cameras, and polished animations — to deliver an immersive, music-first experience.
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### 🔁 Content Pipeline (Add songs / levels without code)
 
-Rhythm Runner separates *content* from *code* so creators can design levels purely by editing JSON and adding assets to `Assets/Resources`.
+Rhythm Walker separates *content* from *code* so creators can design levels purely by editing JSON and adding assets to `Assets/Resources`.
 
 #### 1) Lyrics files — `Assets/Lyrics`
 
