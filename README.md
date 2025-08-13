@@ -42,6 +42,11 @@
 
 ---
 
+🔗 **Download game here (no installation required):**  
+[Rhythm Walker](https://drive.google.com/file/d/19UjPFsT1UAGGm4DeIgBGTM50vLjNqZdN/view?usp=sharing)
+
+---
+
 <details>
 <summary>💻 Developer Deep-Dive (Click to expand)</summary>
 
