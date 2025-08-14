@@ -68,7 +68,6 @@ public class MainMenuController : MonoBehaviour
         volumeSlider.RegisterValueChangedCallback(evt => OnVolumeChanged(volumeSlider.value));
         playButton.clicked += OnPlayClicked;
         quitButton.clicked += OnQuitClicked;
-        howToButton.clicked += OnHowToClicked;
     }
 
     private void UpdateFill(VisualElement fill, float value)
@@ -100,11 +99,6 @@ public class MainMenuController : MonoBehaviour
     }
 
     public void OnQuitClicked()
-    {
-        Application.Quit();
-    }
-
-    public void OnHowToClicked()
     {
         Application.Quit();
     }
