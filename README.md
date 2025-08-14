@@ -43,7 +43,7 @@
 ---
 
 🔗 **Download game here (no installation required):**  
-[Rhythm Walker](https://drive.google.com/file/d/19UjPFsT1UAGGm4DeIgBGTM50vLjNqZdN/view?usp=sharing)
+[Rhythm Walker](https://drive.google.com/drive/folders/1OwLvg9mxTJXdrwrYK3afky1fEwYeEtXs?usp=sharing)
 
 ---
 
